@@ -1,4 +1,4 @@
-A Kampmann-Wagner numerical model to simulate the evolution of second phase particles in Zircaloys. 
+A model to simulate the evolution of second phase particles (SPPs) in Zircaloys based on the Kampmann-Wagner numerical model, along with sub-models to predict SPP amorphization and dissolution under irradiation. 
 
 Version 1 relates to the first version of this model, published in 2023. Full details and information about this version of the model are found in reference 1.
 
