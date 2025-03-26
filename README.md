@@ -8,5 +8,5 @@ Please cite this model using the relevant literature, i.e., reference 1 for vers
 
 References:
 1. K. Lynch, "Simulation of Second Phase Particle Evolution in Zircaloys," PhD Thesis. The University of Manchester (2023).
-2. K. Lynch, P. Frankel, C. Race, M. Maric, C. Daniel, M. Topping, A. Cole-Baker, J. Robson, "In-service Simulation of Second Phase Particles in Zircaloys," in Zirconium in the Nuclear Industry: 21st International Symposium. PREPRINT, DOI: 10.5281/zenodo.15088130.
+2. K. Lynch, P. Frankel, C. Race, M. Maric, C. Daniel, M. Topping, A. Cole-Baker, J. Robson, "In-service Simulation of Second Phase Particles in Zircaloys," in Zirconium in the Nuclear Industry: 21st International Symposium (2025). PREPRINT, DOI: 10.5281/zenodo.15088130.
 
